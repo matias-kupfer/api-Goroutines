@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a2214d4-32e0-494f-a454-a96134c42be9" name="Default Changelist" comment="" />
+    <list default="true" id="9a2214d4-32e0-494f-a454-a96134c42be9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/car-details-controller.go" beforeDir="false" afterPath="$PROJECT_DIR$/controller/car-details-controller.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/car-details-service.go" beforeDir="false" afterPath="$PROJECT_DIR$/service/car-details-service.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +20,9 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kPezBjART1ECT6kyKInuDWpUzT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,7 +35,18 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Test.TestGetDetails in github.com/matiascfgm/api-Goroutines/service">
+    <configuration name="TestGetDetails in github.com/matiascfgm/api-Goroutines/service" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="mashup-api" />
+      <working_directory value="$PROJECT_DIR$/service" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/matiascfgm/api-Goroutines/service" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestGetDetails\E$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestGetDetails in github.com/matiascfgm/mashup-api/service" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="mashup-api" />
       <working_directory value="$PROJECT_DIR$/service" />
@@ -41,6 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestGetDetails in github.com/matiascfgm/api-Goroutines/service" />
         <item itemvalue="Go Test.TestGetDetails in github.com/matiascfgm/mashup-api/service" />
       </list>
     </recent_temporary>
@@ -50,25 +70,25 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="240" key="GridCell.Tab.0.bottom" timestamp="1605610778861">
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom" timestamp="1605612896272">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="240" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1605610778861" />
-    <state width="1398" height="240" key="GridCell.Tab.0.center" timestamp="1605610778858">
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1605612896272" />
+    <state width="1398" height="240" key="GridCell.Tab.0.center" timestamp="1605612896270">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="240" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1605610778858" />
-    <state width="1398" height="240" key="GridCell.Tab.0.left" timestamp="1605610778853">
+    <state width="1398" height="240" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1605612896270" />
+    <state width="1398" height="240" key="GridCell.Tab.0.left" timestamp="1605612896268">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="240" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1605610778853" />
-    <state width="1398" height="240" key="GridCell.Tab.0.right" timestamp="1605610778860">
+    <state width="1398" height="240" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1605612896268" />
+    <state width="1398" height="240" key="GridCell.Tab.0.right" timestamp="1605612896270">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="240" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1605610778860" />
-    <state x="420" y="189" width="600" height="522" key="find.popup" timestamp="1605610825463">
+    <state width="1398" height="240" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1605612896270" />
+    <state x="420" y="189" width="600" height="580" key="find.popup" timestamp="1605627124599">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="420" y="189" width="600" height="522" key="find.popup/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1605610825463" />
+    <state x="420" y="189" width="600" height="580" key="find.popup/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1605627124599" />
   </component>
 </project>

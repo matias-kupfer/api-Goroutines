@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/matiascfgm/mashup-api/controller"
-	router "github.com/matiascfgm/mashup-api/http"
-	"github.com/matiascfgm/mashup-api/service"
+	"github.com/matiascfgm/api-Goroutines/controller"
+	router "github.com/matiascfgm/api-Goroutines/http"
+	"github.com/matiascfgm/api-Goroutines/service"
 	"net/http"
 )
 

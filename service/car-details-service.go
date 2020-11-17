@@ -3,7 +3,7 @@ package service
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/matiascfgm/mashup-api/entity"
+	"github.com/matiascfgm/api-Goroutines/entity"
 	"net/http"
 )
 

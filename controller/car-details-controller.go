@@ -2,7 +2,7 @@ package controller
 
 import (
 	"encoding/json"
-	"github.com/matiascfgm/mashup-api/service"
+	"github.com/matiascfgm/api-Goroutines/service"
 	"net/http"
 )
 
