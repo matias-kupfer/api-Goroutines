@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "brand": "Mitsubishi",
+  "model": "Montero",
+  "model_year": 2002,
+  "owen_firstname": "John",
+  "owner_lastname": "Doe",
+  "owner_email": "johndoe@gmail.com"
+}
