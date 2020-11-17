@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mashup-api.iml" filepath="$PROJECT_DIR$/.idea/mashup-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/api-Goroutines.iml" filepath="$PROJECT_DIR$/.idea/api-Goroutines.iml" />
     </modules>
   </component>
 </project>
